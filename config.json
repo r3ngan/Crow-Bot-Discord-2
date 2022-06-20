@@ -1,12 +1,12 @@
 {
-    "token": "OTg4MDcyOTg1MDU3NDM1Njcw.G1QmXy.rlNXb9wcfM2uMz8dIgjFOGZCBwzLnR5jzy5YeM",
+    "token": "le token",
     "color": "WHITE",
-    "prefix": "!",
-    "name": "Sans c un bg sah",
+    "prefix": "+",
+    "name": "๖̶ζ͜͡Crowbots",
     "defaultjoinmessage": "{user} vient de rejoindre. Il a été invité par **{inviter:name}** qui a désormais **{invite} invitations** !",
     "defaultleavemessage": "{user} vient de quitter. Il avais été invité par **{inviter:name}** qui a désormais **{invite} invitations** ",
     "defaultLevelmessage": "**{user}** vient de passer au level **{level}** bravo à lui !",
     "owner": [
-        "934172257767546960"
+        "ton id"
     ]
 }
